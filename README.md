@@ -1,17 +1,10 @@
 # SCRAPE-TUT-yt
 
-## Table of Contents
-
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
-
 ## About <a name = "about"></a>
 
 This project was completed with the help of this tutorial: (https://www.youtube.com/watch?v=BqGq9MTSt7g)
 
-I was able to make a *better* way of getting a list of titles than the instructor.
+I was able to code a *better* way of getting a list of titles than the instructor.
 
 Instead of simply writing an array by hand every time you run the code, the application will create a dynamic list from the related titles found on the first url.
 
