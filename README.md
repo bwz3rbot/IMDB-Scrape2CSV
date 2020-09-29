@@ -35,4 +35,4 @@ Run the application with the url of the title you are to evaulate passed in as a
 node index.js "https://www.imdb.com/title/tt0052520/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=12230b0e-0e00-43ed-9e59-8d5353703cce&pf_rd_r=6KQ70RPV7ZC2S3JDB59Y&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=toptv&ref_=chttvtp_tt_21"
 ```
 
-The csv will be saved in the current directory as the name of the title of the url given.
+The csv will be saved in the current directory. The file will be named as the title of the url given.
